@@ -1,6 +1,6 @@
 package packageQualquerProjeto2;
-
-	
+    //Aluno: Misael Witalo Ferreira da Silva
+	//RA: 0025369
 	import java.awt.EventQueue;
 	import javax.swing.JFrame;
 	import java.awt.Color;
